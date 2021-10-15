@@ -325,7 +325,7 @@ class Patient2 extends Component {
           </form>
         </div>
         <div className="radioButtonDiv">
-          <h3>I have hypertensionl</h3>
+          <h3>I have hypertension</h3>
           <form className="usa-form FormElement">
             <div className="usa-radio margin-x-1">
               <input

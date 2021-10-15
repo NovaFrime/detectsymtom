@@ -1,9 +1,11 @@
 #main-content > .grid-container > .grid-row {
   border: 1px solid #555;
   border-radius: 1rem;
+  margin-top: 50px;
 }
 #Navbar {
   margin-bottom: 0.5rem;
+  margin-top:1px ;
 }
 #ContentDiv {
   background-color: #ffffff;
